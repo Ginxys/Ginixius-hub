@@ -8,6 +8,7 @@ local game = ({
     [82807309372429] = game:HttpGet("https://gist.githubusercontent.com/Ginxys/e174ac39571ffb8f334992d7e7252c41/raw/b5a234a27324537102d85d773ae466c4c6efcfdb/game"),
     [18907769092] = game:HttpGet("https://gist.githubusercontent.com/Ginxys/086595d492e80c3d7427dfddacb2c722/raw/1cf13b7adfe4b9425a88819a69a4d9fd91cae763/woww"),
     [18983895074] = game:HttpGet("https://gist.githubusercontent.com/Ginxys/086595d492e80c3d7427dfddacb2c722/raw/1cf13b7adfe4b9425a88819a69a4d9fd91cae763/woww"),
+    [17687435907] = game:HttpGet("https://pastefy.app/qQQERnTZ/raw"),
 })[game.PlaceId]
 --18983895074
 if game ~= nil then
